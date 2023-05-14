@@ -34,7 +34,7 @@ Able to answer all sorts of questions related to the following topics:
 
 <hr>
 
-### Installation
+### Installation and Image Showcase
 To run the project locally, replace modify the organization and key IDs used for requests in the configuration object. Note: before creating your own API key, consult this article which lists the [best practices for API key safety.](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 
 Next, run "node index.js" in a terminal from the backend directory. Finally, run "node dev run" from the frontend directory and you will be able to use this chatbot yourself!
