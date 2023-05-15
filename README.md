@@ -22,7 +22,7 @@ Able to answer all sorts of questions related to the following topics:
 <hr>
 
 ### Technologies Used
-- React was used for the frontend to build an intuitive and user-friendly frontend web interface for the chatbot. The React app was created using Vite.
+- HTML, CSS, JavaScript, and React.js were used for the frontend to build an intuitive and user-friendly frontend web interface for the chatbot. The React app was created using Vite.
 - Node.js was used for the backend to create a local server that listens on port 8000, facilitating seamless communication between the frontend and the chatbot API.
 - OpenAI GPT API.
 
